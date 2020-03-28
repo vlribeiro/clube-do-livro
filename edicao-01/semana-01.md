@@ -30,7 +30,7 @@ Na onda do grupo de "pessoas comuns que se juntam pra tentar resolver problemas 
 
 Nosso livro aborda o tema das tags do Flickr, utilizadas para organizar fotos de um mesmo evento: a Mermaid Parade e adivinhem? [O Flickr ainda está cheio de fotos da parada](https://www.flickr.com/photos/tags/mermaidparade)!
 
-Que tal pensarmos na evolução da importâncio e do impacto das hashtags desde quando o Flickr foi lançado até os dias de hoje? Vocês sabiam que nas plataformas sociais, hoje em dia, é possível [seguir hashtags além de pessoas](https://about.instagram.com/pt-br/blog/announcements/now-you-can-follow-hashtags-on-instagram)? No Instagram, uma das minhas favoritas é *[#nature](https://www.instagram.com/explore/tags/nature/)*! E as de vocês?
+Que tal pensarmos na evolução da importância e do impacto das hashtags desde quando o Flickr foi lançado até os dias de hoje? Vocês sabiam que nas plataformas sociais, hoje em dia, é possível [seguir hashtags além de pessoas](https://about.instagram.com/pt-br/blog/announcements/now-you-can-follow-hashtags-on-instagram)? No Instagram, uma das minhas favoritas é *[#nature](https://www.instagram.com/explore/tags/nature/)*! E as de vocês?
 
 #### Ainda sobre comunidades...
 
