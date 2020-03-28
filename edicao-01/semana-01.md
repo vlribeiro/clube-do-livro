@@ -34,7 +34,7 @@ Que tal pensarmos na evolução da importância e do impacto das hashtags desde 
 
 #### Ainda sobre comunidades...
 
-Puxando um pouco a sardinha para o meu lado de TI: quando o Clay Shirky escreve sobre os grupos de estrutura frouxa e sem direção gerencial, no segundo capítulo do livro, minha mente grita **software livre**! [É aquele software construído, colaborativamente, por uma comunidade de desenvolvedores ao redor do mundo e que pode ser validado, modificado, distribuído e utilizado sem amarras](https://www.techtudo.com.br/noticias/noticia/2015/07/o-que-e-software-livre-especialistas-do-fisl-tiram-todas-duvidas.html). Inclusive, uma parte considerável dos sistemas utilizado na Saphyr possuem módulos baseados em software livre.
+Puxando um pouco a sardinha para o meu lado de TI: quando o Clay Shirky escreve sobre os grupos de estrutura frouxa e sem direção gerencial, no segundo capítulo do livro, minha mente grita **software livre**! [É aquele software construído, colaborativamente, por uma comunidade de desenvolvedores ao redor do mundo e que pode ser validado, modificado, distribuído e utilizado sem amarras](https://www.techtudo.com.br/noticias/noticia/2015/07/o-que-e-software-livre-especialistas-do-fisl-tiram-todas-duvidas.html). Inclusive, uma parte considerável dos sistemas desenvolvidos pelo time de TI da Saphyr possui módulos baseados em software livre.
 
 > E pra vocês, quais exemplos do poder das comunidades podem ser aplicados em suas áreas de atuação?
 
