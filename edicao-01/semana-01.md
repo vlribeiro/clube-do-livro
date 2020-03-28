@@ -26,6 +26,10 @@ Na onda do grupo de "pessoas comuns que se juntam pra tentar resolver problemas 
 
 ### O poder das comunidades
 
-![](https://postgrain.com/wp-content/uploads/2018/01/giphy-6.gif){style=margin:auto}
+![](https://postgrain.com/wp-content/uploads/2018/01/giphy-6.gif){:style=margin:auto}
+
+<p style="text-align:center">
+![](https://postgrain.com/wp-content/uploads/2018/01/giphy-6.gif)
+</p>
 
 Nosso 
