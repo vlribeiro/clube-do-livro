@@ -1,8 +1,8 @@
 # Lá Vem Todo Mundo (*Semana 1*)
 
-## E aí, clube do livro!
+## E aí, clube do livro! 😊
 
-![](https://media.tenor.com/images/cc942e8b96742d9ad33d9405a5c61539/tenor.gif){:width="100%"}
+<img src="https://media.tenor.com/images/cc942e8b96742d9ad33d9405a5c61539/tenor.gif" style="margin: auto; display: block; width: 300px;" alt="Gif com o ursinho Pooh dançando em frente ao espelho durante a quarentena" />
 
 Ficando em dia com a rotina de exercícios e cuidados no meio desse *caos louco* que estamos vivendo?
 
@@ -26,10 +26,6 @@ Na onda do grupo de "pessoas comuns que se juntam pra tentar resolver problemas 
 
 ### O poder das comunidades
 
-![](https://postgrain.com/wp-content/uploads/2018/01/giphy-6.gif){:style=margin:auto}
-
-<p style="text-align:center">
-![](https://postgrain.com/wp-content/uploads/2018/01/giphy-6.gif)
-</p>
+<img src="https://postgrain.com/wp-content/uploads/2018/01/giphy-6.gif" style="margin: auto; display: block; width: 300px;" alt="Gif indicando o movimento de hashtags" />
 
 Nosso 
