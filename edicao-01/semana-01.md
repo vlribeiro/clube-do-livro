@@ -52,11 +52,9 @@ Hatidze é a última caçadora de abelhas silvestres em atividade na Europa até
 
 ---
 
-### Por hoje é só! Até a semana que vem!
+### Por hoje é só! Até a semana que vem! 🙋‍♂️
 
 Quer indicar algum material pra curadoria da semana que vem?
 
 - [Me manda um WhatsApp](https://api.whatsapp.com/send?phone=5521987761988&text=Oi,%20Vini!)
 - [Me manda um e-mail](mailto:vinicius.ribeiro@saphyr.com.br)
-
-🙋‍♂️
