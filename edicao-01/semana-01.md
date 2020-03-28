@@ -28,4 +28,35 @@ Na onda do grupo de "pessoas comuns que se juntam pra tentar resolver problemas 
 
 <img src="https://postgrain.com/wp-content/uploads/2018/01/giphy-6.gif" style="margin: auto; display: block; width: 300px;" alt="Gif indicando o movimento de hashtags" />
 
-Nosso 
+Nosso livro aborda o tema das tags do Flickr, utilizadas para organizar fotos de um mesmo evento: a Mermaid Parade e adivinhem? [O Flickr ainda está cheio de fotos da parada](https://www.flickr.com/photos/tags/mermaidparade)!
+
+Que tal pensarmos na evolução da importâncio e do impacto das hashtags desde quando o Flickr foi lançado até os dias de hoje? Vocês sabiam que nas plataformas sociais, hoje em dia, é possível [seguir hashtags além de pessoas](https://about.instagram.com/pt-br/blog/announcements/now-you-can-follow-hashtags-on-instagram)? No Instagram, uma das minhas favoritas é *[#nature](https://www.instagram.com/explore/tags/nature/)*! E as de vocês?
+
+#### Ainda sobre comunidades...
+
+Puxando um pouco a sardinha para o meu lado de TI: quando o Clay Shirky escreve sobre os grupos de estrutura frouxa e sem direção gerencial, no segundo capítulo do livro, minha mente grita **software livre**! [É aquele software construído, colaborativamente, por uma comunidade de desenvolvedores ao redor do mundo e que pode ser validado, modificado, distribuído e utilizado sem amarras](https://www.techtudo.com.br/noticias/noticia/2015/07/o-que-e-software-livre-especialistas-do-fisl-tiram-todas-duvidas.html). Inclusive, uma parte considerável dos sistemas utilizado na Saphyr possuem módulos baseados em software livre.
+
+> E pra vocês, quais exemplos do poder das comunidades podem ser aplicados em suas áreas de atuação?
+
+---
+
+### Pra fechar... A Tragédia do Terreno Comunal
+
+<img src="https://conteudo.imguol.com.br/c/tab/98/2020/02/04/hatidze-muratova-em-cena-de-honeyland-2019-1580831035073_v2_615x300.jpg" style="margin: auto; display: block; width: 100%;" alt="Gif indicando o movimento de hashtags" />
+
+*"Metade pra nós, metade pra elas!"*, assim é como Hatidze Muratova *(na foto acima)* ensina sobre o cuidado que devemos tomar ao criar abelhas no documentário [Honeyland](https://www.youtube.com/watch?v=SZQWPT1y_kQ), indicado ao Oscar deste ano.
+
+Hatidze é a última caçadora de abelhas silvestres em atividade na Europa até hoje, e o filme retrata o que acontece quando novos apicultores, inexperientes, chegam para trabalhar em sua região e ignoram o ensinamento. Além de ser um filme com um debate profundo sobre o uso do Terreno Comunal, abordado no livro, [a obra traz imagens belíssimas de um lugar que parece impossível de existir até os dias de hoje](https://tab.uol.com.br/noticias/redacao/2020/02/05/por-que-um-documentario-sobre-uma-apicultora-e-a-grande-sensacao-do-oscar.htm).
+
+> *Ainda sobre o tema do Terreno Comunal, vamos lembrar de comprar apenas o necessário em tempos de pandemia! Nada de estocar papel higiênico, máscaras e álcool gel.*
+
+---
+
+### Por hoje é só! Até a semana que vem!
+
+Quer indicar algum material pra curadoria da semana que vem?
+
+- [Me manda um WhatsApp](https://api.whatsapp.com/send?phone=5521987761988&text=Oi,%20Vini!)
+- [Me manda um e-mail](mailto:vinicius.ribeiro@saphyr.com.br)
+
+🙋‍♂️
