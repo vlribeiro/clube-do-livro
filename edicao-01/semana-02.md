@@ -8,13 +8,8 @@
 
 Mais uma semana de quarentena, mais uma semana de leitura.
 
-```
-Que tal uma trívia?
-
-Quantos idiomas a Wikipédia fala?
-
-Role até o final pra saber!
-```
+> ### Que tal uma trívia?
+> **Quantos idiomas a Wikipédia fala?** *A resposta vem ao final dos links da semana...*
 
 ## Os luditas...
 
