@@ -2,11 +2,7 @@
 
 ## E aí, clube do livro! 😊
 
-<img src="https://media.giphy.com/media/j2dbAdicfdwQ2Fj0Mw/giphy.gif" style="margin: auto; display: block; width: 300px;" />
-
-<video autplay loop muted style="margin: auto; display: block; width: 300px;">
-    <source type="video/mp4" src="https://media.giphy.com/media/j2dbAdicfdwQ2Fj0Mw/giphy.mp4"></source>
-</video>
+<img src="https://media.giphy.com/media/j2dbAdicfdwQ2Fj0Mw/giphy-downsized.gif" style="margin: auto; display: block; width: 300px;" />
 
 Mais uma semana de quarentena, mais uma semana de leitura.
 
