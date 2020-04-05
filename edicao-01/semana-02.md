@@ -19,7 +19,8 @@ Nosso livro segue para abordar o tema de tecnologias disruptivas e como elas mud
 
 A resistência ao novo e ao desconhecido é um comportamento natural do ser humano, e é o tema central do podcast **[Pessimists Archive](https://pessimists.co/)** (*Arquivo dos Pessimistas, em tradução livre*), que a cada episódio aborda a história de por que resistimos a novidades. Em seus mais de 20 episódios, o programa já abordou temas de mudanças profundas como o surgimento do automóvel, das vacinas e da eletricidade, assim como inovações mais corriqueiras. Minha sugestão é [o episódio sobre o surgimento do guarda-chuva](https://pessimists.co/umbrella/). Quem diria que uma inovação tão boba causaria tantos problemas em Londres?
 
-<div style="display: flex; height: 60px; margin: 2rem;">
+<p style="display: flex; justify-content: center; align-itens: center; margin: 2rem 2rem 0 2rem; padding: 1rem 0 .4rem 0; background-color: #f7fafc; border-radius: .4rem .4rem 0 0; color: #4a5568; font-weight: bold; text-transform: uppercase; letter-spacing: .2rem; border-bottom: 1px solid #a0aec0;">Ouça no seu player favorito!</p>
+<div style="display: flex; height: 60px; margin: 0 2rem 2rem 2rem; background-color: #f7fafc; border-radius: 0 0 .4rem .4rem; padding: 1rem 0;">
     <a style="flex: 1;" href="https://podcasts.apple.com/us/podcast/umbrella/id1104682320?i=1000384273296">
         <img style="width: 100%; height: 100%; object-fit: contain;" src="https://pessimists.co/wp-content/uploads/2018/10/ApplePodcasts-min.png" />
     </a>
@@ -32,7 +33,7 @@ A resistência ao novo e ao desconhecido é um comportamento natural do ser huma
     <a style="flex: 1; " href="https://overcast.fm/+Gxiz1Ot_M">
         <img style="width: 100%; height: 100%; object-fit: contain;" src="https://pessimists.co/wp-content/uploads/2018/10/Overcast-min.png" />
     </a>
-    <a style="flex: 1;" href="https://pca.st/XLfI">
+    <a style="flex: 1; padding: .3rem 0;" href="https://pca.st/XLfI">
         <img style="width: 100%; height: 100%; object-fit: contain;" src="data:image/svg+xml;base64,PHN2ZyB3aWR0aD0iNTQiIGhlaWdodD0iNTQiIHZpZXdCb3g9IjAgMCA1NCA1NCIgZmlsbD0ibm9uZSIgeG1sbnM9Imh0dHA6Ly93d3cudzMub3JnLzIwMDAvc3ZnIj4KPHBhdGggZmlsbC1ydWxlPSJldmVub2RkIiBjbGlwLXJ1bGU9ImV2ZW5vZGQiIGQ9Ik01NCAyN0M1NCA0MS45MTIgNDEuOTEyIDU0IDI3IDU0QzEyLjA4OCA1NCAwIDQxLjkxMiAwIDI3QzAgMTIuMDg4IDEyLjA4OCAwIDI3IDBDNDEuOTEyIDAgNTQgMTIuMDg4IDU0IDI3WiIgZmlsbD0iI0Y0M0UzNyIvPgo8cGF0aCBmaWxsLXJ1bGU9ImV2ZW5vZGQiIGNsaXAtcnVsZT0iZXZlbm9kZCIgZD0iTTYgMjdDNiAxNS40MDIgMTUuNDAyIDYgMjcgNkMzOC41OTggNiA0OCAxNS40MDIgNDggMjdINDIuNzVDNDIuNzUgMTguMzAxNSAzNS42OTg1IDExLjI1IDI3IDExLjI1QzE4LjMwMTUgMTEuMjUgMTEuMjUgMTguMzAxNSAxMS4yNSAyN0MxMS4yNSAzNS42OTg1IDE4LjMwMTUgNDIuNzUgMjcgNDIuNzVWNDhDMTUuNDAyIDQ4IDYgMzguNTk4IDYgMjdaTTI3IDM5LjZDMjAuMDQxMiAzOS42IDE0LjQgMzMuOTU4OCAxNC40IDI3QzE0LjQgMjAuMDQxMiAyMC4wNDEyIDE0LjQgMjcgMTQuNEMzMy45NTg4IDE0LjQgMzkuNiAyMC4wNDEyIDM5LjYgMjdIMzUuMDE4MkMzNS4wMTgyIDIyLjU3MTcgMzEuNDI4MyAxOC45ODE4IDI3IDE4Ljk4MThDMjIuNTcxNyAxOC45ODE4IDE4Ljk4MTggMjIuNTcxNyAxOC45ODE4IDI3QzE4Ljk4MTggMzEuNDI4MyAyMi41NzE3IDM1LjAxODIgMjcgMzUuMDE4MlYzOS42WiIgZmlsbD0id2hpdGUiLz4KPC9zdmc+Cg==" />
     </a>
 </div>
