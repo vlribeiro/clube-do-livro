@@ -19,6 +19,24 @@ Nosso livro segue para abordar o tema de tecnologias disruptivas e como elas mud
 
 A resistência ao novo e ao desconhecido é um comportamento natural do ser humano, e é o tema central do podcast **[Pessimists Archive](https://pessimists.co/)** (*Arquivo dos Pessimistas, em tradução livre*), que a cada episódio aborda a história de por que resistimos a novidades. Em seus mais de 20 episódios, o programa já abordou temas de mudanças profundas como o surgimento do automóvel, das vacinas e da eletricidade, assim como inovações mais corriqueiras. Minha sugestão é [o episódio sobre o surgimento do guarda-chuva](https://pessimists.co/umbrella/). Quem diria que uma inovação tão boba causaria tantos problemas em Londres?
 
+<div style="display: flex; height: 60px; margin: 2rem;">
+    <a style="flex: 1;" href="https://itunes.apple.com/us/podcast/pessimists-archive-podcast/id1104682320?mt=2">
+        <img style="width: 100%; height: 100%; object-fit: contain;" src="https://pessimists.co/wp-content/uploads/2018/10/ApplePodcasts-min.png" />
+    </a>
+    <a style="flex: 1;" href="https://open.spotify.com/episode/0ARsEItXrO7eKXoSOaFhme">
+        <img style="width: 100%; height: 100%; object-fit: contain;" src="https://pessimists.co/wp-content/uploads/2019/04/Spotify_Logo-min.png" />
+    </a>
+    <a style="flex: 1;" href="https://www.google.com/podcasts?feed=aHR0cDovL2ZlZWRzLnNvdW5kY2xvdWQuY29tL3VzZXJzL3NvdW5kY2xvdWQ6dXNlcnM6MjIwMDA2Njg2L3NvdW5kcy5yc3M%3D">
+        <img style="width: 100%; height: 100%; object-fit: contain;" src="https://pessimists.co/wp-content/uploads/2019/04/GooglePodcasts-min.png" />
+    </a>
+    <a style="flex: 1; " href="https://overcast.fm/itunes1104682320">
+        <img style="width: 100%; height: 100%; object-fit: contain;" src="https://pessimists.co/wp-content/uploads/2018/10/Overcast-min.png" />
+    </a>
+    <a style="flex: 1;" href="https://pca.st/XLfI">
+        <img style="width: 100%; height: 100%; object-fit: contain;" src="data:image/svg+xml;base64,PHN2ZyB3aWR0aD0iNTQiIGhlaWdodD0iNTQiIHZpZXdCb3g9IjAgMCA1NCA1NCIgZmlsbD0ibm9uZSIgeG1sbnM9Imh0dHA6Ly93d3cudzMub3JnLzIwMDAvc3ZnIj4KPHBhdGggZmlsbC1ydWxlPSJldmVub2RkIiBjbGlwLXJ1bGU9ImV2ZW5vZGQiIGQ9Ik01NCAyN0M1NCA0MS45MTIgNDEuOTEyIDU0IDI3IDU0QzEyLjA4OCA1NCAwIDQxLjkxMiAwIDI3QzAgMTIuMDg4IDEyLjA4OCAwIDI3IDBDNDEuOTEyIDAgNTQgMTIuMDg4IDU0IDI3WiIgZmlsbD0iI0Y0M0UzNyIvPgo8cGF0aCBmaWxsLXJ1bGU9ImV2ZW5vZGQiIGNsaXAtcnVsZT0iZXZlbm9kZCIgZD0iTTYgMjdDNiAxNS40MDIgMTUuNDAyIDYgMjcgNkMzOC41OTggNiA0OCAxNS40MDIgNDggMjdINDIuNzVDNDIuNzUgMTguMzAxNSAzNS42OTg1IDExLjI1IDI3IDExLjI1QzE4LjMwMTUgMTEuMjUgMTEuMjUgMTguMzAxNSAxMS4yNSAyN0MxMS4yNSAzNS42OTg1IDE4LjMwMTUgNDIuNzUgMjcgNDIuNzVWNDhDMTUuNDAyIDQ4IDYgMzguNTk4IDYgMjdaTTI3IDM5LjZDMjAuMDQxMiAzOS42IDE0LjQgMzMuOTU4OCAxNC40IDI3QzE0LjQgMjAuMDQxMiAyMC4wNDEyIDE0LjQgMjcgMTQuNEMzMy45NTg4IDE0LjQgMzkuNiAyMC4wNDEyIDM5LjYgMjdIMzUuMDE4MkMzNS4wMTgyIDIyLjU3MTcgMzEuNDI4MyAxOC45ODE4IDI3IDE4Ljk4MThDMjIuNTcxNyAxOC45ODE4IDE4Ljk4MTggMjIuNTcxNyAxOC45ODE4IDI3QzE4Ljk4MTggMzEuNDI4MyAyMi41NzE3IDM1LjAxODIgMjcgMzUuMDE4MlYzOS42WiIgZmlsbD0id2hpdGUiLz4KPC9zdmc+Cg==" />
+    </a>
+</div>
+
 ## E a facilidade de reprodução de conteúdo
 
 <video autoplay loop muted style="margin: 2rem auto; display: block; width: 300px; border-radius: .4rem; box-shadow: 0 4px 8px rgba(0,0,0,.2), 0 0 3px rgba(0,0,0,.4);">
