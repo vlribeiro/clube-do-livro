@@ -22,7 +22,7 @@ Nosso livro segue para abordar o tema de tecnologias disruptivas e como elas mud
 
 <img src="https://assets.atlasobscura.com/article_images/32522/image.jpg" width="300" style="margin: 2rem auto; display: block; width: 300px; border-radius: .4rem; box-shadow: 0 4px 8px rgba(0,0,0,.2), 0 0 3px rgba(0,0,0,.4);">
 
-A resistência ao novo e ao desconhecido é um comportomanto natural do ser humano, e é o tema central do podcast [Pessimists Archive](https://pessimists.co/) (*Arquivo dos Pessimistas, em tradução livre*), que a cada episódio aborda a história de por que resistimos a novidades. Em seus mais de 20 episódios, o programa já abordou temas de mudanças profundas como o surgimento do automóvel, das vacinas e da eletricidade, assim como inovações mais corriqueiras. Minha sugestão é [o episódio sobre o surgimento do guarda-chuva](https://pessimists.co/umbrella/). Quem diria que uma inovação tão boba causaria tantos problemas em Londres?
+A resistência ao novo e ao desconhecido é um comportamento natural do ser humano, e é o tema central do podcast **[Pessimists Archive](https://pessimists.co/)** (*Arquivo dos Pessimistas, em tradução livre*), que a cada episódio aborda a história de por que resistimos a novidades. Em seus mais de 20 episódios, o programa já abordou temas de mudanças profundas como o surgimento do automóvel, das vacinas e da eletricidade, assim como inovações mais corriqueiras. Minha sugestão é [o episódio sobre o surgimento do guarda-chuva](https://pessimists.co/umbrella/). Quem diria que uma inovação tão boba causaria tantos problemas em Londres?
 
 ## E a facilidade de reprodução de conteúdo
 
