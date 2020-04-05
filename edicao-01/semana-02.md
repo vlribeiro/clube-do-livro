@@ -20,16 +20,16 @@ Nosso livro segue para abordar o tema de tecnologias disruptivas e como elas mud
 A resistência ao novo e ao desconhecido é um comportamento natural do ser humano, e é o tema central do podcast **[Pessimists Archive](https://pessimists.co/)** (*Arquivo dos Pessimistas, em tradução livre*), que a cada episódio aborda a história de por que resistimos a novidades. Em seus mais de 20 episódios, o programa já abordou temas de mudanças profundas como o surgimento do automóvel, das vacinas e da eletricidade, assim como inovações mais corriqueiras. Minha sugestão é [o episódio sobre o surgimento do guarda-chuva](https://pessimists.co/umbrella/). Quem diria que uma inovação tão boba causaria tantos problemas em Londres?
 
 <div style="display: flex; height: 60px; margin: 2rem;">
-    <a style="flex: 1;" href="https://itunes.apple.com/us/podcast/pessimists-archive-podcast/id1104682320?mt=2">
+    <a style="flex: 1;" href="https://podcasts.apple.com/us/podcast/umbrella/id1104682320?i=1000384273296">
         <img style="width: 100%; height: 100%; object-fit: contain;" src="https://pessimists.co/wp-content/uploads/2018/10/ApplePodcasts-min.png" />
     </a>
     <a style="flex: 1;" href="https://open.spotify.com/episode/0ARsEItXrO7eKXoSOaFhme">
         <img style="width: 100%; height: 100%; object-fit: contain;" src="https://pessimists.co/wp-content/uploads/2019/04/Spotify_Logo-min.png" />
     </a>
-    <a style="flex: 1;" href="https://www.google.com/podcasts?feed=aHR0cDovL2ZlZWRzLnNvdW5kY2xvdWQuY29tL3VzZXJzL3NvdW5kY2xvdWQ6dXNlcnM6MjIwMDA2Njg2L3NvdW5kcy5yc3M%3D">
+    <a style="flex: 1;" href="https://podcasts.google.com/?feed=aHR0cDovL2ZlZWRzLnNvdW5kY2xvdWQuY29tL3VzZXJzL3NvdW5kY2xvdWQ6dXNlcnM6MjIwMDA2Njg2L3NvdW5kcy5yc3M&episode=dGFnOnNvdW5kY2xvdWQsMjAxMDp0cmFja3MvMzE3MjUyMzgx&ved=0CDEQzsICahcKEwjIqYHXgdLoAhUAAAAAHQAAAAAQAQ">
         <img style="width: 100%; height: 100%; object-fit: contain;" src="https://pessimists.co/wp-content/uploads/2019/04/GooglePodcasts-min.png" />
     </a>
-    <a style="flex: 1; " href="https://overcast.fm/itunes1104682320">
+    <a style="flex: 1; " href="https://overcast.fm/+Gxiz1Ot_M">
         <img style="width: 100%; height: 100%; object-fit: contain;" src="https://pessimists.co/wp-content/uploads/2018/10/Overcast-min.png" />
     </a>
     <a style="flex: 1;" href="https://pca.st/XLfI">
