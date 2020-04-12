@@ -10,3 +10,4 @@
 
 - [Semana 1](./edicao-01/semana-01.html) - *27/03/2020*
 - [Semana 2](./edicao-01/semana-02.html) - *03/04/2020*
+- [Semana 3](./edicao-01/semana-03.html) - *10/04/2020*
