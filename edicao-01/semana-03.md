@@ -17,7 +17,7 @@ O livro de Clay foi publicado em 2008, e parece que ele já sabia as mudanças q
 
 <img src="https://vodzilla.co/wp-content/uploads/2013/12/The-Square-documentary-film-trailer-700x325.jpg" width="300" style="margin: 2rem auto; display: block; width: 300px; border-radius: .4rem; box-shadow: 0 4px 8px rgba(0,0,0,.2), 0 0 3px rgba(0,0,0,.4);">
 
-A ampliação do uso das redes fez com que o mundo vivesse uma época de ressurgimento dos protestos e manifestações públicas ao longo da última década. Um desses casos, é o da Revolução Egípcia de 2011, exibido em detalhes no documentário The Square (*foto acima*), [disponível na Netflix](https://www.netflix.com/title/70268449). O protesto foi parte da [Primavera Árabe](https://pt.wikipedia.org/wiki/Primavera_%C3%81rabe).
+A ampliação do uso das redes fez com que o mundo vivesse uma época de ressurgimento dos protestos e manifestações públicas ao longo da última década. Um desses casos, é o da Revolução Egípcia de 2011, exibido em detalhes no documentário **The Square** (*foto acima*), [disponível na Netflix](https://www.netflix.com/title/70268449). O protesto foi parte da [Primavera Árabe](https://pt.wikipedia.org/wiki/Primavera_%C3%81rabe).
 
 Outros exemplos foram:
 - [Movimentos Occupy](https://en.wikipedia.org/wiki/Occupy_movement), que tiveram origem nos EUA
@@ -27,7 +27,7 @@ Outros exemplos foram:
 
 <img src="https://www.eturbonews.com/wp-content/uploads/2017/03/00_1214526073.jpg" width="300" style="margin: 2rem auto; display: block; width: 300px; border-radius: .4rem; box-shadow: 0 4px 8px rgba(0,0,0,.2), 0 0 3px rgba(0,0,0,.4);">
 
-A mulher da foto acima é Kate Hanni, a corretora de imóveis da Flórida que [ficou presa por horas no vôo 1348 da American Airlines](https://www.dallasnews.com/business/airlines/2007/12/31/stranded-passengers-sues-american/) e criou um grupo de pessoas interessados em melhorias nos direitos de passageiros de companhias aéreas nos Estados Unidos.
+A mulher da foto acima é **Kate Hanni**, a corretora de imóveis da Flórida que [ficou presa por horas no vôo 1348 da American Airlines](https://www.dallasnews.com/business/airlines/2007/12/31/stranded-passengers-sues-american/) e criou um grupo de pessoas interessados em melhorias nos direitos de passageiros de companhias aéreas nos Estados Unidos.
 
 O grupo criado por Kate, que já foi eleita uma das mulheres mais influentes da indústria de turismo, [existe até hoje](https://flyersrights.org/). Inclusive, o grupo está demandando que após a pandemia do Coronavírus, as empresas devolvam o dinheiro dos passageiros que assim desejarem, [ao invés de só oferecerem vouchers para novas viagens](https://flyersrights.org/coronavirus/flyersrights-podcast-we-demand-refunds-no-vouchers/).
 
@@ -43,7 +43,7 @@ No Brasil, a **Teoria dos Jogos** foi aplicada até nas [investigações da Lava
 
 <img src="https://steamcdn-a.akamaihd.net/steamcommunity/public/images/clans/35930764/e355ca2245cbf1378b4328aaf1c19115a555be49_400x225.png" width="300" style="margin: 2rem auto; display: block; width: 300px; border-radius: .4rem; box-shadow: 0 4px 8px rgba(0,0,0,.2), 0 0 3px rgba(0,0,0,.4);">
 
-E vamos ter jogos nas recomendações! [Split or Steal](https://store.steampowered.com/app/1162930/Split_or_Steal/) é um jogo gratuito, disponível na Steam, que aplica o Dilema do Prisioneiro na prática: ofertado com uma quantia em dinheiro e jogando contra oponentes humanos do mundo todo, você só precisa escolher tentar roubar o dinheiro todo pra você ou compartilhar com seu comparsa?
+E vamos ter jogos nas recomendações! [Split or Steal](https://store.steampowered.com/app/1162930/Split_or_Steal/) é um jogo gratuito, disponível na Steam, que aplica o **Dilema do Prisioneiro** na prática: ofertado com uma quantia em dinheiro e jogando contra oponentes humanos do mundo todo, você só precisa escolher se vai tentar roubar o tudo pra você ou compartilhar meio a meio com seu comparsa?
 
 ## Tudo é uma questão da rede que você monta
 
