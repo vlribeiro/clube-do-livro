@@ -37,9 +37,9 @@ O grupo criado por Kate, que já foi eleita uma das mulheres mais influentes da 
     <source type="video/mp4" src="https://media.giphy.com/media/soS6N6KBCB3oc/giphy.mp4"></source>
 </video>
 
-O Dilema do Prisioneiro é um tópico vasto, abordado brevemente no livro. Dá pra ter uma ideia melhor de como humanos aprendem a confiar (ou não) em outros brincando de forma interativa com o site [A Evolução da Confiança](https://brunolemos.github.io/trust/), uma explicação muito acessível do problema e das diferentes estratégias possíveis de se adotar frente o problema.
+O **Dilema do Prisioneiro** é parte da **Teoria dos Jogos**, um tópico vasto, abordado brevemente no livro. Dá pra ter uma ideia melhor de como humanos aprendem a confiar (*ou não*) em outros de forma interativa com o site [A Evolução da Confiança](https://brunolemos.github.io/trust/), uma explicação muito acessível da história das relações humanas e das diferentes estratégias possíveis de se adotar frente o problema.
 
-No Brasil, a Teoria dos Jogos foi aplicada até nas [investigações da Lava Jato](https://blog.saraivaaprova.com.br/delacao-premiada-e-a-teoria-dos-jogos-com-base-no-equilibrio-de-john-nash/).
+No Brasil, a **Teoria dos Jogos** foi aplicada até nas [investigações da Lava Jato](https://blog.saraivaaprova.com.br/delacao-premiada-e-a-teoria-dos-jogos-com-base-no-equilibrio-de-john-nash/).
 
 <img src="https://steamcdn-a.akamaihd.net/steamcommunity/public/images/clans/35930764/e355ca2245cbf1378b4328aaf1c19115a555be49_400x225.png" width="300" style="margin: 2rem auto; display: block; width: 300px; border-radius: .4rem; box-shadow: 0 4px 8px rgba(0,0,0,.2), 0 0 3px rgba(0,0,0,.4);">
 
